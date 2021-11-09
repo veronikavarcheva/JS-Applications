@@ -1,0 +1,1 @@
+Open the terminal with CTRL + J and install the libraries with npm install
